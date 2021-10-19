@@ -1,6 +1,11 @@
-### Hi there, I'm Ana Paula 👋
+### Hello World, I'm Ana Paula 👋
 
 - 📚 I'm currently a student of Systems Analysis and Development
 - 🌱 I’m currently learning C++
 
- <a href="https://www.linkedin.com/in/anapaulaoliveiraramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### Connect with me:
+
+[<img align="left" alt="anapaulaoliveiraramos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anapaulaoliveiraramos/
