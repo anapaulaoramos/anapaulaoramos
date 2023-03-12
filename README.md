@@ -1,7 +1,7 @@
 ### Hello World, I'm Ana Paula 👋
 
 - 📚 I'm currently a student of Systems Analysis and Development
-- 🌱 I’m currently learning C++
+
 
 
 ### Connect with me:
